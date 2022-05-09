@@ -4,7 +4,7 @@ window.onload = async () => {
     } else 
     await window.keplr.experimentalSuggestChain({
     chainId: "lilmermaid-16v1",
-    chainName: "E-Money",
+    chainName: "E-Money_test",
     rpc: "http://195.3.221.131:26757", // replace with your rpc url
     rest: "http://195.3.221.131:1717", // replace with your rest api url
     bip44: {
