@@ -24,13 +24,12 @@ window.onload = async () => {
             coinMinimalDenom: "ungm", 
             coinDecimals: 6, 
             coinGeckoId: "ungm", 
-        }, 
-        { 
             coinDenom: "SEK", 
             coinMinimalDenom: "esek", 
             coinDecimals: 6, 
-            coinGeckoId: "esek", 
-        },
+            coinGeckoId: "esek",
+        }, 
+   
     ],
     feeCurrencies: [
         {
