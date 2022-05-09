@@ -25,6 +25,12 @@ window.onload = async () => {
             coinDecimals: 6, 
             coinGeckoId: "ungm", 
         }, 
+        { 
+            coinDenom: "SEK", 
+            coinMinimalDenom: "esek", 
+            coinDecimals: 6, 
+            coinGeckoId: "esek", 
+        },
     ],
     feeCurrencies: [
         {
