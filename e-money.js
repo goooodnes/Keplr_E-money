@@ -26,7 +26,7 @@ window.onload = async () => {
             coinGeckoId: "ungm", 
            }, 
         {
-              coinDenom: "SEK", 
+            coinDenom: "SEK", 
             coinMinimalDenom: "esek", 
             coinDecimals: 6, 
             coinGeckoId: "esek",
