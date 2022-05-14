@@ -3,10 +3,10 @@ window.onload = async () => {
         alert("Please install keplr extension");
     } else 
     await window.keplr.experimentalSuggestChain({
-    chainId: "lilmermaid-16v1",
+    chainId: "lilmermaid-16v2",
     chainName: "E-Money_test",
-    rpc: "http://195.3.221.131:26757", // replace with your rpc url
-    rest: "http://195.3.221.131:1717", // replace with your rest api url
+    rpc: "http://161.97.147.107:26557", // replace with your rpc url
+    rest: "http://161.97.147.107:1517", // replace with your rest api url
     bip44: {
         coinType: 118,
     },
