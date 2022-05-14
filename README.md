@@ -1,4 +1,4 @@
-## E-money lilmermaid-16v1 keplr wallet integration
+## E-money lilmermaid-16v3 keplr wallet integration
 <!--
 #### Requirements 
 [keplr wallet extension](https://google.com)
